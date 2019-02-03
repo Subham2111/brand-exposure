@@ -3,3 +3,6 @@ to check whether the promotion of brand is done right or wrong means if the bran
 #install requirements
 pip install requirements.txt
 #download resource file from drive link and put it on advertisement/resources/
+
+#for yolo training visit below link
+https://github.com/thtrieu/darkflow
